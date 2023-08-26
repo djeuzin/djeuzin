@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @djeuzin
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can email me at rafaelfmg72@gmail.com
