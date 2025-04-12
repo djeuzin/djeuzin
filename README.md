@@ -11,5 +11,5 @@ Some of my interests are:
 - Literature
 - Retro video-games
 
-You can contact me at: rafaelfmg72@gmail.com.
+You can contact me at: rafaelfmg72@gmail.com
 or on my [LinkedIn](https://www.linkedin.com/in/rafael-freire-734573205/).
