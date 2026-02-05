@@ -1,6 +1,6 @@
 # Rafael Freire
 
-Hi! My name is Rafael. I'm a brazilian computer science student at UNIFESP.
+I'm a brazilian computer science student at UNIFESP.
 
 Currently taking classes in Graph Theory AI and learning computer vision.
 
