@@ -13,7 +13,7 @@ Some of my interests are:
 Some projects I'm currently interested in:
 - OS to turn a small phone into an iPod (C)
 - Graph visualizer (Python)
-- (Sorting algorithm visualizer on terminal)[github.com/djeuzin/visu] (C)
+- [Sorting algorithm visualizer on terminal](github.com/djeuzin/visu) (C)
 - GB Emulator (C or Rust)
 - Markdown Parser (C)
 - regex parser (C or Rust)
