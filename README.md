@@ -1,15 +1,23 @@
-## Rafael Freire
+# Rafael Freire
 
 Hi! My name is Rafael. I'm a brazilian computer science student at UNIFESP.
 
-Currently taking classes in Linear Algebra and Embedded Sytems.
+Currently taking classes in Graph Theory AI and learning computer vision.
 
 Some of my interests are:
 - Math
 - Music
 - Low-level programming
 - Literature
-- Retro video-games
+
+Some projects I'm currently interested in:
+- OS to turn a small phone into an iPod (C)
+- Graph visualizer (Python)
+- (Sorting algorithm visualizer on terminal)github.com/djeuzin/visu] (C)
+- GB Emulator (C or Rust)
+- Markdown Parser (C)
+- regex parser (C or Rust)
+- Personal website
 
 You can contact me at: rafaelfmg72@gmail.com
 or on my [LinkedIn](https://www.linkedin.com/in/rafael-freire-734573205/).
